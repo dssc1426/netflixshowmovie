@@ -3,7 +3,8 @@ This is basically my Programming assignment of Advanced database systems in Mast
 The link to test the data with queries : https://netflixshowmovie-8a68f5aadc25.herokuapp.com/
 
 You need to send GraphQL queries and mutations using tools like Apollo Studio GraphQL Playground, Postman,  or Insomnia to test the work.
-I used NoddeJs to connect the mongodb on cloud
+
+I used NoddeJs to connect the MongoDb on cloud.
 
 The CSV file (netflix.csv are Movie and Show on Netflix) is provided in this assignment with the column names including: 
 age_certification
